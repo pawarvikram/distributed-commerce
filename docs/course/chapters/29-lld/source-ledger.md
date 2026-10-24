@@ -1,0 +1,1 @@
+Verified 2026-10-24: Java21 concurrency API and JLS, Spring DI, Azure pattern catalogue, PostgreSQL18 locking. See section5 URLs. Language/API guarantees are distinct from original design advice. Demonstration unexecuted; no book chapter claims. No dependency upgrade.

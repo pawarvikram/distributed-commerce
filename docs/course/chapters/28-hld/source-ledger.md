@@ -1,0 +1,1 @@
+Checked 2026-10-24. Five official sources and their sections are linked in notes section 5. AWS/Azure are framing references; worked designs and quantities are explicitly original proposals. No book chapter, integration run, or benchmark is claimed. PostgreSQL version 18, Kafka line 4.2, Java examples 21.

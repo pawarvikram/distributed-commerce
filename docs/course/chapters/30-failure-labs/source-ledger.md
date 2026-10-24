@@ -1,0 +1,1 @@
+Checked 2026-10-24. Eight primary sources with specific scope are linked in section5: Kafka4.2 design/monitoring, PostgreSQL18 locks/statistics, Docker Compose stop, Kubernetes debug/delete, Google SRE incident management as an explicitly named engineering supplement. All 25 lab procedures are original project exercises, unexecuted. Source citations are not experimental evidence.

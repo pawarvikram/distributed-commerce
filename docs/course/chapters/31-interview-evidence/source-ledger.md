@@ -1,0 +1,1 @@
+Checked2026-10-24. Five official/primary sources linked in section5; interview method and rubric are original course guidance, not company hiring-process claims. No professional experience or results invented. No code execution claimed. Kafka4.2, Java21, PostgreSQL18 source context.
